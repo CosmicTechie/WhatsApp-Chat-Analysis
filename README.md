@@ -1,2 +1,2 @@
 # WhatsApp-Chat-Analysis
-We can get a lot of 
+We can get a lot of insights from
